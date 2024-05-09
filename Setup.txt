@@ -1,0 +1,27 @@
+Docker version 26.0.0
+
+@vue/cli 5.0.8
+"bootstrap": "^5.3.3",
+"bootstrap-vue": "^2.23.1"
+
+Apache Maven 3.9.6
+Java version: 21.0.3
+jdk-21
+
+DB: postgresql 14.1
+org.springframework.boot 3.2.5
+
+NPM 8.1.2
+NODE v20.12.2
+
+Backend in port 8080
+
+Frontend in port 8081
+
+I have windows in my only computer so its tricky to get a bash to run it all in a linux computer
+
+Im missing details from Phase 2: Tag application and filtering, i can add tags and filter by name to show the notes with that tag,
+but im missing the delete and showing of the tags on each note. im guessing its due to a bad configuration on vue on my part
+but im limited to one page and can't use modals thats the why of the prompts.
+
+Any doubt about the code or the installation my personal email is: everha20@hotmail.com
